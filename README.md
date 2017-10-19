@@ -8,8 +8,8 @@
 
 
 ## 2. 支援版本
-   - OpenCart Version 2.1.0.2
-   - OpenCart Version 2.2.0.0
+   - OpenCart Version 2.0.0.0 ~ 2.2.0.0
+
  
 
 ## 3. 注意事項
