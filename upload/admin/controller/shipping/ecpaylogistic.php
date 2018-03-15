@@ -485,9 +485,7 @@ class ControllerShippingecpayLogistic extends Controller
 					if ($_IsCollection == IsCollection::NO) {
 						unset($AL->Send['CollectionAmount']);
 					}
-					if ($_LogisticsSubType != LogisticsSubType::UNIMART_C2C && $_LogisticsSubType != LogisticsSubType::HILIFE_C2C) {
-						unset($AL->Send['SenderCellPhone']);
-					}
+                    
 					$Result = $AL->BGCreateShippingOrder(); 
 					if ($Result['ResCode'] == 1) {
 						$this->db->query("INSERT INTO `ecpaylogistic_info` SET `order_id` =" . $order_id .", `AllPayLogisticsID` = '" . $Result['AllPayLogisticsID'] ."';");
