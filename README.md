@@ -1,3 +1,30 @@
+# 林 科技 全 全 全 全 全 全 全 全 全 全 全 全 全 全 全 全 全 全 全 全
+---
+
+## 1 Introduction
+
+   - Green Technology Super Business Pickup Payment Plug-in Suite, providing cooperative special stores and personal members When using open original code store systems, there is no need to deal with complex queues, they can quickly interpret the Green Technology through the installation of external suits. Logistics integration system, easy and fast commodity transport mechanism.
+
+
+
+## 2. Support version
+    - OpenCART VERSION 2.0.0.0 ~ 2.2.0.0
+
+ 
+
+## 3. Precautions
+   - The plug-in suite supports only the UTF8 language version of the PHP store system.
+   `` ``
+
+     - '. Because the shopping cart architecture uses FB and Line and other app built-in browser that cannot choose the store, use the browser operation built by the action device. '
+    `` `
+ 
+
+## 4. Contact us
+   - Green Technical Service Engineer Mailbox: Techsupport@ecpay.com.tw
+
+---
+
 # 綠界科技 全方位(All In One)物流整合介接 OpenCart2.0 購物車版
 ---
 
